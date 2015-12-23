@@ -1,0 +1,9 @@
+#Python byte-code
+*.py[co]
+
+#Resources
+resources/
+
+#Databases
+astron/database/
+astron/database/astrondb/

@@ -1,0 +1,3 @@
+This entire folder temporarily uses Toontown Rewritten code. Later on, we will be rewriting this (no pun intended).
+
+Thanks!
